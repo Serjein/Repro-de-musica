@@ -211,7 +211,7 @@ function playingNow(){
         }
 
         if (allLiTags[j].getAttribute("li-index") == musicIndex){
-            allLiTags[j].classList.add("playing")
+            allLiTags[j].classList.add("paused")
             audioTag.innerText = "Playing"
         }
 

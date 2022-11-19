@@ -33,18 +33,18 @@ const allMusic = [
         name:"Supremacy",
         artist:"Muse",
         img:"muse-the 2nd law",
-        src:"muse-supremacy-official-video"
+        src:"muse-supremacy"
     },
     {
         name:"Chi",
         artist:"Korn",
         img:"chi",
-        src:"CHI-KORN"
+        src:"chi-Korn"
     },
     {
         name:"Got the life",
         artist:"Korn",
         img:"got-the-life",
-        src:"CDT-THE-LIFE-KORN"
+        src:"theLife-Korn"
     },
 ]

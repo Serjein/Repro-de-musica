@@ -39,12 +39,12 @@ const allMusic = [
         name:"Chi",
         artist:"Korn",
         img:"chi",
-        src:"chi-Korn"
+        src:"CHI"
     },
     {
         name:"Got the life",
         artist:"Korn",
         img:"got-the-life",
-        src:"NEED-TO-KORN"
+        src:"THE-LIFE-KORN"
     },
 ]

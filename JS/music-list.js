@@ -36,10 +36,10 @@ const allMusic = [
         src:"muse-supremacy"
     },
     {
-        name:"Chi",
+        name:"A.D.I.D.A.S",
         artist:"Korn",
         img:"chi",
-        src:"CHI"
+        src:"ADIDAS-KORN"
     },
     {
         name:"Got the life",

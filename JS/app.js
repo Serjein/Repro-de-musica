@@ -207,11 +207,11 @@ function playingNow(){
         if (allLiTags[j].classList.contains("playing")){
             allLiTags[j].classList.remove("playing")
             let audioDuration = audioTag.getAttribute("t-duration")
-            audioTag.innerText = audioDuration
+            audioTag.innerText = audioDuration  
         }
 
         if (allLiTags[j].getAttribute("li-index") == musicIndex){
-            allLiTags[j].classList.add("paused")
+            allLiTags[j].classList.add("playing")
             audioTag.innerText = "Playing"
         }
 

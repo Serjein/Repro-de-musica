@@ -45,6 +45,6 @@ const allMusic = [
         name:"Got the life",
         artist:"Korn",
         img:"got-the-life",
-        src:"theLife-Korn"
+        src:"NEED-TO-KORN"
     },
 ]
